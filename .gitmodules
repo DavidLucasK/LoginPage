@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/DavidLucasK/LoginFrontend
+	url = https://github.com/DavidLucasK/LoginFrontend.git frontend
 [submodule "backend"]
 	path = backend
-	url = https://github.com/DavidLucasK/LoginBack
+	url = https://github.com/DavidLucasK/LoginBack.git backend
